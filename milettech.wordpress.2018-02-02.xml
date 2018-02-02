@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/4.9.1" created="2018-01-19 10:24" -->
+<!-- generator="WordPress/4.9.1" created="2018-02-02 10:29" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>milettech</title>
 	<link>http://test.milettech.com</link>
 	<description>our competence your confidence</description>
-	<pubDate>Fri, 19 Jan 2018 10:24:47 +0000</pubDate>
+	<pubDate>Fri, 02 Feb 2018 10:29:57 +0000</pubDate>
 	<language>zh-CN</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://test.milettech.com</wp:base_site_url>
@@ -38,82 +38,16 @@
 	<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[milettech]]></wp:author_login><wp:author_email><![CDATA[betterzfz@163.com]]></wp:author_email><wp:author_display_name><![CDATA[milettech]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
 	<wp:category>
-		<wp:term_id>16</wp:term_id>
-		<wp:category_nicename><![CDATA[about-us]]></wp:category_nicename>
-		<wp:category_parent><![CDATA[]]></wp:category_parent>
-		<wp:cat_name><![CDATA[About Us]]></wp:cat_name>
-	</wp:category>
-	<wp:category>
-		<wp:term_id>20</wp:term_id>
-		<wp:category_nicename><![CDATA[clients-and-partners]]></wp:category_nicename>
-		<wp:category_parent><![CDATA[]]></wp:category_parent>
-		<wp:cat_name><![CDATA[Clients And Partners]]></wp:cat_name>
-	</wp:category>
-	<wp:category>
-		<wp:term_id>28</wp:term_id>
-		<wp:category_nicename><![CDATA[cmm]]></wp:category_nicename>
-		<wp:category_parent><![CDATA[about-us]]></wp:category_parent>
-		<wp:cat_name><![CDATA[CMM]]></wp:cat_name>
-	</wp:category>
-	<wp:category>
-		<wp:term_id>23</wp:term_id>
-		<wp:category_nicename><![CDATA[company-culture]]></wp:category_nicename>
-		<wp:category_parent><![CDATA[about-us]]></wp:category_parent>
-		<wp:cat_name><![CDATA[Company Culture]]></wp:cat_name>
-	</wp:category>
-	<wp:category>
-		<wp:term_id>24</wp:term_id>
-		<wp:category_nicename><![CDATA[company-profile]]></wp:category_nicename>
-		<wp:category_parent><![CDATA[about-us]]></wp:category_parent>
-		<wp:cat_name><![CDATA[Company Profile]]></wp:cat_name>
-	</wp:category>
-	<wp:category>
-		<wp:term_id>27</wp:term_id>
-		<wp:category_nicename><![CDATA[company-structure]]></wp:category_nicename>
-		<wp:category_parent><![CDATA[about-us]]></wp:category_parent>
-		<wp:cat_name><![CDATA[Company Structure]]></wp:cat_name>
-	</wp:category>
-	<wp:category>
-		<wp:term_id>22</wp:term_id>
-		<wp:category_nicename><![CDATA[contacts-us]]></wp:category_nicename>
-		<wp:category_parent><![CDATA[]]></wp:category_parent>
-		<wp:cat_name><![CDATA[Contacts Us]]></wp:cat_name>
-	</wp:category>
-	<wp:category>
-		<wp:term_id>19</wp:term_id>
+		<wp:term_id>48</wp:term_id>
 		<wp:category_nicename><![CDATA[portfolio]]></wp:category_nicename>
 		<wp:category_parent><![CDATA[]]></wp:category_parent>
 		<wp:cat_name><![CDATA[Portfolio]]></wp:cat_name>
 	</wp:category>
 	<wp:category>
-		<wp:term_id>17</wp:term_id>
-		<wp:category_nicename><![CDATA[services]]></wp:category_nicename>
+		<wp:term_id>47</wp:term_id>
+		<wp:category_nicename><![CDATA[products]]></wp:category_nicename>
 		<wp:category_parent><![CDATA[]]></wp:category_parent>
-		<wp:cat_name><![CDATA[Services]]></wp:cat_name>
-	</wp:category>
-	<wp:category>
-		<wp:term_id>21</wp:term_id>
-		<wp:category_nicename><![CDATA[solutions]]></wp:category_nicename>
-		<wp:category_parent><![CDATA[]]></wp:category_parent>
-		<wp:cat_name><![CDATA[Solutions]]></wp:cat_name>
-	</wp:category>
-	<wp:category>
-		<wp:term_id>25</wp:term_id>
-		<wp:category_nicename><![CDATA[technology-strength]]></wp:category_nicename>
-		<wp:category_parent><![CDATA[about-us]]></wp:category_parent>
-		<wp:cat_name><![CDATA[Technology Strength]]></wp:cat_name>
-	</wp:category>
-	<wp:category>
-		<wp:term_id>26</wp:term_id>
-		<wp:category_nicename><![CDATA[they-trust-us]]></wp:category_nicename>
-		<wp:category_parent><![CDATA[about-us]]></wp:category_parent>
-		<wp:cat_name><![CDATA[They Trust Us]]></wp:cat_name>
-	</wp:category>
-	<wp:category>
-		<wp:term_id>18</wp:term_id>
-		<wp:category_nicename><![CDATA[vision-design]]></wp:category_nicename>
-		<wp:category_parent><![CDATA[]]></wp:category_parent>
-		<wp:cat_name><![CDATA[Vision Design]]></wp:cat_name>
+		<wp:cat_name><![CDATA[Products]]></wp:cat_name>
 	</wp:category>
 	<wp:category>
 		<wp:term_id>1</wp:term_id>
@@ -122,109 +56,37 @@
 		<wp:cat_name><![CDATA[未分类]]></wp:cat_name>
 	</wp:category>
 	<wp:category>
-		<wp:term_id>31</wp:term_id>
-		<wp:category_nicename><![CDATA[3d-design]]></wp:category_nicename>
-		<wp:category_parent><![CDATA[vision-design]]></wp:category_parent>
-		<wp:cat_name><![CDATA[3D Design]]></wp:cat_name>
-	</wp:category>
-	<wp:category>
-		<wp:term_id>35</wp:term_id>
-		<wp:category_nicename><![CDATA[3d-panoramic-virtual-tour]]></wp:category_nicename>
-		<wp:category_parent><![CDATA[3d-design]]></wp:category_parent>
-		<wp:cat_name><![CDATA[3D Panoramic Virtual Tour]]></wp:cat_name>
-	</wp:category>
-	<wp:category>
-		<wp:term_id>32</wp:term_id>
-		<wp:category_nicename><![CDATA[art-design]]></wp:category_nicename>
-		<wp:category_parent><![CDATA[vision-design]]></wp:category_parent>
-		<wp:cat_name><![CDATA[Art Design]]></wp:cat_name>
-	</wp:category>
-	<wp:category>
-		<wp:term_id>36</wp:term_id>
+		<wp:term_id>49</wp:term_id>
 		<wp:category_nicename><![CDATA[case-study]]></wp:category_nicename>
 		<wp:category_parent><![CDATA[portfolio]]></wp:category_parent>
 		<wp:cat_name><![CDATA[Case Study]]></wp:cat_name>
 	</wp:category>
 	<wp:category>
-		<wp:term_id>30</wp:term_id>
+		<wp:term_id>52</wp:term_id>
 		<wp:category_nicename><![CDATA[corporate-identity-design]]></wp:category_nicename>
-		<wp:category_parent><![CDATA[vision-design]]></wp:category_parent>
-		<wp:cat_name><![CDATA[Corporate Identity Design]]></wp:cat_name>
-	</wp:category>
-	<wp:category>
-		<wp:term_id>40</wp:term_id>
-		<wp:category_nicename><![CDATA[corporate-identity-design-case-study]]></wp:category_nicename>
 		<wp:category_parent><![CDATA[case-study]]></wp:category_parent>
 		<wp:cat_name><![CDATA[Corporate Identity Design]]></wp:cat_name>
 	</wp:category>
 	<wp:category>
-		<wp:term_id>41</wp:term_id>
+		<wp:term_id>53</wp:term_id>
 		<wp:category_nicename><![CDATA[flash-design]]></wp:category_nicename>
 		<wp:category_parent><![CDATA[case-study]]></wp:category_parent>
 		<wp:cat_name><![CDATA[FLASH Design]]></wp:cat_name>
 	</wp:category>
 	<wp:category>
-		<wp:term_id>29</wp:term_id>
+		<wp:term_id>50</wp:term_id>
 		<wp:category_nicename><![CDATA[graphic-design]]></wp:category_nicename>
-		<wp:category_parent><![CDATA[vision-design]]></wp:category_parent>
-		<wp:cat_name><![CDATA[Graphic design]]></wp:cat_name>
-	</wp:category>
-	<wp:category>
-		<wp:term_id>38</wp:term_id>
-		<wp:category_nicename><![CDATA[graphic-design-case-study]]></wp:category_nicename>
 		<wp:category_parent><![CDATA[case-study]]></wp:category_parent>
 		<wp:cat_name><![CDATA[Graphic Design]]></wp:cat_name>
 	</wp:category>
 	<wp:category>
-		<wp:term_id>39</wp:term_id>
+		<wp:term_id>51</wp:term_id>
 		<wp:category_nicename><![CDATA[logo-design]]></wp:category_nicename>
 		<wp:category_parent><![CDATA[case-study]]></wp:category_parent>
 		<wp:cat_name><![CDATA[Logo Design]]></wp:cat_name>
 	</wp:category>
 	<wp:category>
-		<wp:term_id>46</wp:term_id>
-		<wp:category_nicename><![CDATA[offshore-software-outsourcing-case]]></wp:category_nicename>
-		<wp:category_parent><![CDATA[case-study]]></wp:category_parent>
-		<wp:cat_name><![CDATA[Offshore software outsourcing Case]]></wp:cat_name>
-	</wp:category>
-	<wp:category>
-		<wp:term_id>37</wp:term_id>
-		<wp:category_nicename><![CDATA[photography]]></wp:category_nicename>
-		<wp:category_parent><![CDATA[portfolio]]></wp:category_parent>
-		<wp:cat_name><![CDATA[Photography]]></wp:cat_name>
-	</wp:category>
-	<wp:category>
-		<wp:term_id>43</wp:term_id>
-		<wp:category_nicename><![CDATA[powerpoint-template-design]]></wp:category_nicename>
-		<wp:category_parent><![CDATA[case-study]]></wp:category_parent>
-		<wp:cat_name><![CDATA[PowerPoint Template Design]]></wp:cat_name>
-	</wp:category>
-	<wp:category>
-		<wp:term_id>45</wp:term_id>
-		<wp:category_nicename><![CDATA[software-interface-design]]></wp:category_nicename>
-		<wp:category_parent><![CDATA[case-study]]></wp:category_parent>
-		<wp:cat_name><![CDATA[Software interface design]]></wp:cat_name>
-	</wp:category>
-	<wp:category>
-		<wp:term_id>33</wp:term_id>
-		<wp:category_nicename><![CDATA[virtual-reality]]></wp:category_nicename>
-		<wp:category_parent><![CDATA[3d-design]]></wp:category_parent>
-		<wp:cat_name><![CDATA[Virtual Reality]]></wp:cat_name>
-	</wp:category>
-	<wp:category>
-		<wp:term_id>44</wp:term_id>
-		<wp:category_nicename><![CDATA[web-design-and-development]]></wp:category_nicename>
-		<wp:category_parent><![CDATA[case-study]]></wp:category_parent>
-		<wp:cat_name><![CDATA[Web Design and Development]]></wp:cat_name>
-	</wp:category>
-	<wp:category>
-		<wp:term_id>34</wp:term_id>
-		<wp:category_nicename><![CDATA[3d-animation]]></wp:category_nicename>
-		<wp:category_parent><![CDATA[3d-design]]></wp:category_parent>
-		<wp:cat_name><![CDATA[3D Animation]]></wp:cat_name>
-	</wp:category>
-	<wp:category>
-		<wp:term_id>42</wp:term_id>
+		<wp:term_id>54</wp:term_id>
 		<wp:category_nicename><![CDATA[3d-animation-design]]></wp:category_nicename>
 		<wp:category_parent><![CDATA[case-study]]></wp:category_parent>
 		<wp:cat_name><![CDATA[3D Animation Design]]></wp:cat_name>
@@ -326,226 +188,6 @@
 	<generator>https://wordpress.org/?v=4.9.1</generator>
 
 	<item>
-		<title></title>
-		<link>http://test.milettech.com/?p=12</link>
-		<pubDate>Tue, 19 Dec 2017 10:51:52 +0000</pubDate>
-		<dc:creator><![CDATA[milettech]]></dc:creator>
-		<guid isPermaLink="false">http://test.milettech.com/?p=12</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>12</wp:post_id>
-		<wp:post_date><![CDATA[2017-12-19 18:51:52]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2017-12-19 10:51:52]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[12]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>37</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="millettech"><![CDATA[millettech]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[20]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-			<wp:meta_value><![CDATA[category]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title></title>
-		<link>http://test.milettech.com/?p=13</link>
-		<pubDate>Tue, 19 Dec 2017 10:51:52 +0000</pubDate>
-		<dc:creator><![CDATA[milettech]]></dc:creator>
-		<guid isPermaLink="false">http://test.milettech.com/?p=13</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>13</wp:post_id>
-		<wp:post_date><![CDATA[2017-12-19 18:51:52]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2017-12-19 10:51:52]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[13]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>38</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="millettech"><![CDATA[millettech]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[22]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-			<wp:meta_value><![CDATA[category]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title></title>
-		<link>http://test.milettech.com/?p=14</link>
-		<pubDate>Tue, 19 Dec 2017 10:51:53 +0000</pubDate>
-		<dc:creator><![CDATA[milettech]]></dc:creator>
-		<guid isPermaLink="false">http://test.milettech.com/?p=14</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>14</wp:post_id>
-		<wp:post_date><![CDATA[2017-12-19 18:51:53]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2017-12-19 10:51:53]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[14]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>39</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="millettech"><![CDATA[millettech]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[19]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-			<wp:meta_value><![CDATA[category]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title></title>
-		<link>http://test.milettech.com/?p=16</link>
-		<pubDate>Tue, 19 Dec 2017 10:51:53 +0000</pubDate>
-		<dc:creator><![CDATA[milettech]]></dc:creator>
-		<guid isPermaLink="false">http://test.milettech.com/?p=16</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>16</wp:post_id>
-		<wp:post_date><![CDATA[2017-12-19 18:51:53]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2017-12-19 10:51:53]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[16]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>51</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="millettech"><![CDATA[millettech]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[21]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-			<wp:meta_value><![CDATA[category]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title>Home</title>
 		<link>http://test.milettech.com/?p=35</link>
 		<pubDate>Thu, 21 Dec 2017 12:38:45 +0000</pubDate>
@@ -598,611 +240,6 @@
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 			<wp:meta_value><![CDATA[/]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title></title>
-		<link>http://test.milettech.com/?p=36</link>
-		<pubDate>Fri, 22 Dec 2017 07:37:25 +0000</pubDate>
-		<dc:creator><![CDATA[milettech]]></dc:creator>
-		<guid isPermaLink="false">http://test.milettech.com/?p=36</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>36</wp:post_id>
-		<wp:post_date><![CDATA[2017-12-22 15:37:25]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2017-12-22 07:37:25]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[36]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>19</wp:post_parent>
-		<wp:menu_order>40</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="millettech"><![CDATA[millettech]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-			<wp:meta_value><![CDATA[14]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[36]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-			<wp:meta_value><![CDATA[category]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title></title>
-		<link>http://test.milettech.com/?p=37</link>
-		<pubDate>Fri, 22 Dec 2017 07:37:25 +0000</pubDate>
-		<dc:creator><![CDATA[milettech]]></dc:creator>
-		<guid isPermaLink="false">http://test.milettech.com/?p=37</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>37</wp:post_id>
-		<wp:post_date><![CDATA[2017-12-22 15:37:25]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2017-12-22 07:37:25]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[37]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>36</wp:post_parent>
-		<wp:menu_order>41</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="millettech"><![CDATA[millettech]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-			<wp:meta_value><![CDATA[36]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[42]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-			<wp:meta_value><![CDATA[category]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title></title>
-		<link>http://test.milettech.com/?p=38</link>
-		<pubDate>Fri, 22 Dec 2017 07:37:25 +0000</pubDate>
-		<dc:creator><![CDATA[milettech]]></dc:creator>
-		<guid isPermaLink="false">http://test.milettech.com/?p=38</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>38</wp:post_id>
-		<wp:post_date><![CDATA[2017-12-22 15:37:25]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2017-12-22 07:37:25]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[38]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>36</wp:post_parent>
-		<wp:menu_order>42</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="millettech"><![CDATA[millettech]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-			<wp:meta_value><![CDATA[36]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[40]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-			<wp:meta_value><![CDATA[category]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title></title>
-		<link>http://test.milettech.com/?p=39</link>
-		<pubDate>Fri, 22 Dec 2017 07:37:26 +0000</pubDate>
-		<dc:creator><![CDATA[milettech]]></dc:creator>
-		<guid isPermaLink="false">http://test.milettech.com/?p=39</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>39</wp:post_id>
-		<wp:post_date><![CDATA[2017-12-22 15:37:26]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2017-12-22 07:37:26]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[39]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>36</wp:post_parent>
-		<wp:menu_order>43</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="millettech"><![CDATA[millettech]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-			<wp:meta_value><![CDATA[36]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[41]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-			<wp:meta_value><![CDATA[category]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title></title>
-		<link>http://test.milettech.com/?p=40</link>
-		<pubDate>Fri, 22 Dec 2017 07:37:26 +0000</pubDate>
-		<dc:creator><![CDATA[milettech]]></dc:creator>
-		<guid isPermaLink="false">http://test.milettech.com/?p=40</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>40</wp:post_id>
-		<wp:post_date><![CDATA[2017-12-22 15:37:26]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2017-12-22 07:37:26]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[40]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>36</wp:post_parent>
-		<wp:menu_order>44</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="millettech"><![CDATA[millettech]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-			<wp:meta_value><![CDATA[36]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[38]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-			<wp:meta_value><![CDATA[category]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title></title>
-		<link>http://test.milettech.com/?p=41</link>
-		<pubDate>Fri, 22 Dec 2017 07:37:26 +0000</pubDate>
-		<dc:creator><![CDATA[milettech]]></dc:creator>
-		<guid isPermaLink="false">http://test.milettech.com/?p=41</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>41</wp:post_id>
-		<wp:post_date><![CDATA[2017-12-22 15:37:26]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2017-12-22 07:37:26]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[41]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>36</wp:post_parent>
-		<wp:menu_order>45</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="millettech"><![CDATA[millettech]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-			<wp:meta_value><![CDATA[36]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[39]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-			<wp:meta_value><![CDATA[category]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title></title>
-		<link>http://test.milettech.com/?p=42</link>
-		<pubDate>Fri, 22 Dec 2017 07:37:26 +0000</pubDate>
-		<dc:creator><![CDATA[milettech]]></dc:creator>
-		<guid isPermaLink="false">http://test.milettech.com/?p=42</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>42</wp:post_id>
-		<wp:post_date><![CDATA[2017-12-22 15:37:26]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2017-12-22 07:37:26]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[42]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>36</wp:post_parent>
-		<wp:menu_order>46</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="millettech"><![CDATA[millettech]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-			<wp:meta_value><![CDATA[36]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[46]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-			<wp:meta_value><![CDATA[category]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title></title>
-		<link>http://test.milettech.com/?p=43</link>
-		<pubDate>Fri, 22 Dec 2017 07:37:26 +0000</pubDate>
-		<dc:creator><![CDATA[milettech]]></dc:creator>
-		<guid isPermaLink="false">http://test.milettech.com/?p=43</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>43</wp:post_id>
-		<wp:post_date><![CDATA[2017-12-22 15:37:26]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2017-12-22 07:37:26]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[43]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>36</wp:post_parent>
-		<wp:menu_order>47</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="millettech"><![CDATA[millettech]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-			<wp:meta_value><![CDATA[36]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[43]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-			<wp:meta_value><![CDATA[category]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title></title>
-		<link>http://test.milettech.com/?p=44</link>
-		<pubDate>Fri, 22 Dec 2017 07:37:27 +0000</pubDate>
-		<dc:creator><![CDATA[milettech]]></dc:creator>
-		<guid isPermaLink="false">http://test.milettech.com/?p=44</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>44</wp:post_id>
-		<wp:post_date><![CDATA[2017-12-22 15:37:27]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2017-12-22 07:37:27]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[44]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>36</wp:post_parent>
-		<wp:menu_order>48</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="millettech"><![CDATA[millettech]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-			<wp:meta_value><![CDATA[36]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[45]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-			<wp:meta_value><![CDATA[category]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title></title>
-		<link>http://test.milettech.com/?p=45</link>
-		<pubDate>Fri, 22 Dec 2017 07:37:27 +0000</pubDate>
-		<dc:creator><![CDATA[milettech]]></dc:creator>
-		<guid isPermaLink="false">http://test.milettech.com/?p=45</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>45</wp:post_id>
-		<wp:post_date><![CDATA[2017-12-22 15:37:27]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2017-12-22 07:37:27]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[45]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>36</wp:post_parent>
-		<wp:menu_order>49</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="millettech"><![CDATA[millettech]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-			<wp:meta_value><![CDATA[36]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[44]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-			<wp:meta_value><![CDATA[category]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title></title>
-		<link>http://test.milettech.com/?p=46</link>
-		<pubDate>Fri, 22 Dec 2017 07:37:27 +0000</pubDate>
-		<dc:creator><![CDATA[milettech]]></dc:creator>
-		<guid isPermaLink="false">http://test.milettech.com/?p=46</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>46</wp:post_id>
-		<wp:post_date><![CDATA[2017-12-22 15:37:27]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2017-12-22 07:37:27]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[46]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>19</wp:post_parent>
-		<wp:menu_order>50</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="millettech"><![CDATA[millettech]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-			<wp:meta_value><![CDATA[14]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[37]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-			<wp:meta_value><![CDATA[category]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -1371,37 +408,6 @@
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>company-structure</title>
-		<link>http://test.milettech.com/?attachment_id=81</link>
-		<pubDate>Thu, 18 Jan 2018 09:15:14 +0000</pubDate>
-		<dc:creator><![CDATA[milettech]]></dc:creator>
-		<guid isPermaLink="false">http://test.milettech.com/wp-content/uploads/2018/01/company-structure.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>81</wp:post_id>
-		<wp:post_date><![CDATA[2018-01-18 17:15:14]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-01-18 09:15:14]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[company-structure]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>80</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://test.milettech.com/wp-content/uploads/2018/01/company-structure.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2018/01/company-structure.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:550;s:6:"height";i:152;s:4:"file";s:29:"2018/01/company-structure.jpg";s:5:"sizes";a:6:{s:9:"thumbnail";a:4:{s:4:"file";s:29:"company-structure-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:28:"company-structure-300x83.jpg";s:5:"width";i:300;s:6:"height";i:83;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:29:"company-structure-180x152.jpg";s:5:"width";i:180;s:6:"height";i:152;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:29:"company-structure-300x152.jpg";s:5:"width";i:300;s:6:"height";i:152;s:9:"mime-type";s:10:"image/jpeg";}s:14:"rpwe-thumbnail";a:4:{s:4:"file";s:27:"company-structure-45x45.jpg";s:5:"width";i:45;s:6:"height";i:45;s:9:"mime-type";s:10:"image/jpeg";}s:20:"sow-carousel-default";a:4:{s:4:"file";s:29:"company-structure-272x152.jpg";s:5:"width";i:272;s:6:"height";i:152;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title></title>
 		<link>http://test.milettech.com/?p=73</link>
 		<pubDate>Thu, 18 Jan 2018 09:03:13 +0000</pubDate>
@@ -1564,6 +570,37 @@
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>company-structure</title>
+		<link>http://test.milettech.com/?attachment_id=81</link>
+		<pubDate>Thu, 18 Jan 2018 09:15:14 +0000</pubDate>
+		<dc:creator><![CDATA[milettech]]></dc:creator>
+		<guid isPermaLink="false">http://test.milettech.com/wp-content/uploads/2018/01/company-structure.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>81</wp:post_id>
+		<wp:post_date><![CDATA[2018-01-18 17:15:14]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-01-18 09:15:14]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[company-structure]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>80</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[http://test.milettech.com/wp-content/uploads/2018/01/company-structure.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2018/01/company-structure.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:550;s:6:"height";i:152;s:4:"file";s:29:"2018/01/company-structure.jpg";s:5:"sizes";a:6:{s:9:"thumbnail";a:4:{s:4:"file";s:29:"company-structure-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:28:"company-structure-300x83.jpg";s:5:"width";i:300;s:6:"height";i:83;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:29:"company-structure-180x152.jpg";s:5:"width";i:180;s:6:"height";i:152;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:29:"company-structure-300x152.jpg";s:5:"width";i:300;s:6:"height";i:152;s:9:"mime-type";s:10:"image/jpeg";}s:14:"rpwe-thumbnail";a:4:{s:4:"file";s:27:"company-structure-45x45.jpg";s:5:"width";i:45;s:6:"height";i:45;s:9:"mime-type";s:10:"image/jpeg";}s:20:"sow-carousel-default";a:4:{s:4:"file";s:29:"company-structure-272x152.jpg";s:5:"width";i:272;s:6:"height";i:152;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -2173,61 +1210,6 @@
 	</item>
 	<item>
 		<title></title>
-		<link>http://test.milettech.com/?p=138</link>
-		<pubDate>Fri, 19 Jan 2018 07:27:20 +0000</pubDate>
-		<dc:creator><![CDATA[milettech]]></dc:creator>
-		<guid isPermaLink="false">http://test.milettech.com/?p=138</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>138</wp:post_id>
-		<wp:post_date><![CDATA[2018-01-19 15:27:20]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-01-19 07:27:20]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[138]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>28</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="millettech"><![CDATA[millettech]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-			<wp:meta_value><![CDATA[147]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[133]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-			<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title></title>
 		<link>http://test.milettech.com/?p=143</link>
 		<pubDate>Fri, 19 Jan 2018 07:27:19 +0000</pubDate>
 		<dc:creator><![CDATA[milettech]]></dc:creator>
@@ -2259,226 +1241,6 @@
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 			<wp:meta_value><![CDATA[123]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-			<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title></title>
-		<link>http://test.milettech.com/?p=144</link>
-		<pubDate>Fri, 19 Jan 2018 07:27:19 +0000</pubDate>
-		<dc:creator><![CDATA[milettech]]></dc:creator>
-		<guid isPermaLink="false">http://test.milettech.com/?p=144</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>144</wp:post_id>
-		<wp:post_date><![CDATA[2018-01-19 15:27:19]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-01-19 07:27:19]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[144]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>22</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="millettech"><![CDATA[millettech]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-			<wp:meta_value><![CDATA[147]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[121]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-			<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title></title>
-		<link>http://test.milettech.com/?p=145</link>
-		<pubDate>Fri, 19 Jan 2018 07:27:19 +0000</pubDate>
-		<dc:creator><![CDATA[milettech]]></dc:creator>
-		<guid isPermaLink="false">http://test.milettech.com/?p=145</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>145</wp:post_id>
-		<wp:post_date><![CDATA[2018-01-19 15:27:19]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-01-19 07:27:19]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[145]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>21</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="millettech"><![CDATA[millettech]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-			<wp:meta_value><![CDATA[147]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[119]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-			<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title></title>
-		<link>http://test.milettech.com/?p=146</link>
-		<pubDate>Fri, 19 Jan 2018 07:27:19 +0000</pubDate>
-		<dc:creator><![CDATA[milettech]]></dc:creator>
-		<guid isPermaLink="false">http://test.milettech.com/?p=146</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>146</wp:post_id>
-		<wp:post_date><![CDATA[2018-01-19 15:27:19]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-01-19 07:27:19]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[146]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>20</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="millettech"><![CDATA[millettech]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-			<wp:meta_value><![CDATA[147]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[116]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-			<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title></title>
-		<link>http://test.milettech.com/?p=147</link>
-		<pubDate>Fri, 19 Jan 2018 07:27:19 +0000</pubDate>
-		<dc:creator><![CDATA[milettech]]></dc:creator>
-		<guid isPermaLink="false">http://test.milettech.com/?p=147</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>147</wp:post_id>
-		<wp:post_date><![CDATA[2018-01-19 15:27:19]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-01-19 07:27:19]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[147]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>19</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="millettech"><![CDATA[millettech]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-			<wp:meta_value><![CDATA[87]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[114]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
@@ -2570,237 +1332,6 @@
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>ABOUT US</title>
-		<link>http://test.milettech.com/?page_id=54</link>
-		<pubDate>Thu, 18 Jan 2018 03:53:23 +0000</pubDate>
-		<dc:creator><![CDATA[milettech]]></dc:creator>
-		<guid isPermaLink="false">http://test.milettech.com/?page_id=54</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>54</wp:post_id>
-		<wp:post_date><![CDATA[2018-01-18 11:53:23]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-01-18 03:53:23]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[about-us]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
-			<wp:meta_value><![CDATA[30]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Company Culture</title>
-		<link>http://test.milettech.com/?page_id=57</link>
-		<pubDate>Thu, 18 Jan 2018 06:40:24 +0000</pubDate>
-		<dc:creator><![CDATA[milettech]]></dc:creator>
-		<guid isPermaLink="false">http://test.milettech.com/?page_id=57</guid>
-		<description></description>
-		<content:encoded><![CDATA[<h4><span style="color: #ff0000;">Mission:</span></h4>
-The mission of Millettech above all is to satisfy our clients and exceed their expectations with the efficient and quality of our services. We will rapidly expand and improve our services to meet the dynamic needs of the global market.
-<h4><span style="color: #ff0000;">Values:</span></h4>
-Customer First – These words ring so true today as they did hundreds of years ago and they are the foundation of Millettech's company philosophy.
-
-Passion – Technology is something Millettech feels very passionate about. We work hard to reflect this in the quality of our products.
-
-Creativity – Knowledge alone is not enough. Millettech believes in the power of creativity and encourages every employee to excercise such power in projects and our business.
-
-Self-motivation – At Millettech, we are very dedicated to our work. We will work tirelessly to meet timelines, and to exceed clients' expectations on quality and cost.
-
-Perfection – A solid product does not begin and end with programming alone. Millettech believes in thorough design, creation and testing at all levels. These are the elements of a successful project.
-<h4><span style="color: #ff0000;">Vision:</span></h4>
-Millettech will be the leading website service provider in China and abroad.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>57</wp:post_id>
-		<wp:post_date><![CDATA[2018-01-18 14:40:24]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-01-18 06:40:24]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[company-culture]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
-			<wp:meta_value><![CDATA[90]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>CMM</title>
-		<link>http://test.milettech.com/?page_id=63</link>
-		<pubDate>Thu, 18 Jan 2018 08:49:03 +0000</pubDate>
-		<dc:creator><![CDATA[milettech]]></dc:creator>
-		<guid isPermaLink="false">http://test.milettech.com/?page_id=63</guid>
-		<description></description>
-		<content:encoded><![CDATA[<p><b>What is CMM?</b></p>
-<p>The <font style="font-weight:bold">Capability Maturity Model for Software</font> (<font style="font-weight:bold">CMM</font>) is a framework that describes the key elements of an effective software process. There are CMMs for non software processes as well, such as <a href="http://bpmtutorial.com/bpm/BPM.aspx" title="Business Process Management Tutorial"><font color="#0000ff">Business Process Management (BPM)</font></a>.</p>
-<p>The CMM describes an evolutionary improvement path from an ad hoc, immature process to a mature, disciplined process. The CMM covers practices for planning, engineering, and managing software development and maintenance.</p>
-<p>When followed, these key practices improve the ability of organizations to meet goals for cost, schedule, functionality, and product quality.</p>
-<p>The CMM establishes a yardstick against which it is possible to judge, in a repeatable way, the maturity of an organization's software process and compare it to the state of the practice of the industry.</p>
-<p>The CMM can also be used by an organization to plan improvements to its software process. It also reflects the needs of individuals performing software process, improvement, software process assessments, or software capability evaluations; is documented; and is publicly available.</p>
-<p>The CMM model defines five levels of organizational maturity:</p>
-<p>1. <font style="font-weight:bold">Initial level</font> is a basis for comparison with the next levels. In an organization at the initial level, conditions are not stable for the development of quality software. The results of any project depend totally on the manager’ s personal approach and the programmers’ experience, meaning the success of a particular project can be repeated only if the same managers and programmers are assigned to the next project. In addition, if managers or programmers leave the company, the quality of produced software will sharply decrease. In many cases, the development process comes down to writing code with minimal testing.</p>
-<p>2. <font style="font-weight:bold">Repeatable level.</font> At this level, project management technologies have been introduced in a company. That project planning and management is based on accumulated experience and there are standards for produced software (these standards are documented) and there is a special quality management group. At critical times, the process tends to roll back to the initial level.</p>
-<p>3. <font style="font-weight:bold">Defined level.</font> Here, standards for the processes of software development and maintenance are introduced and documented (including project management). During the introduction of standards, a transition to more effective technologies occurs. There is a special quality management department for building and maintaining these standards. A program of constant, advanced training of staff is required for achievement of this level. Starting with this level, the degree of organizational dependence on the qualities of particular developers decreases and the process does not tend to roll back to the previous level in critical situations.</p>
-<p>4. <font style="font-weight:bold">Managed level.</font> There are quantitative indices (for both software and process as a whole) established in the organization. Better project management is achieved due to the decrease of digression in different project indices. However, sensible variations in process efficiency may be different from random variations (noise), especially in mastered areas.</p>
-<p>5. <font style="font-weight:bold">Optimizing level.</font> Improvement procedures are carried out not only for existing processes, but also for evaluation of the efficiency of newly introduced innovative technologies. The main goal of an organization on this level is permanent improvement of existing processes. This should anticipate possible errors and defects and decrease the costs of software development, by creating reusable components for example</p><br>]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>63</wp:post_id>
-		<wp:post_date><![CDATA[2018-01-18 16:49:03]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-01-18 08:49:03]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[cmm]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
-			<wp:meta_value><![CDATA[60]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Company Profile</title>
-		<link>http://test.milettech.com/?page_id=71</link>
-		<pubDate>Thu, 18 Jan 2018 09:02:23 +0000</pubDate>
-		<dc:creator><![CDATA[milettech]]></dc:creator>
-		<guid isPermaLink="false">http://test.milettech.com/?page_id=71</guid>
-		<description></description>
-		<content:encoded><![CDATA[<p>Millettech is a professional website team located in Shanghai, China. We successfully work with clients from all over the world. We are excited about the possibility of running our business in the most efficient and innovative way - by telecommuting. Our web designers specialize in best-in-class customer website services including web design and development, web hosting, web maintenance, domain name registration, search engine registration, search engine optimization, e-commerce, creative design, corporate identity system, VR, 3D Animation, 3D panoramic virtual tour, graphic design, and sculpture service.</p>
-<p>We strongly believe that good web design is only the beginning of an effective website strategy. Effective web promotion completes the package. Millettech provides you with a full range of web promotion services designed to get your website noticed.</p>
-<p>We take full advantage of new technology, all communications are done via phone and email. We have a 30-40 people work stable, which perfectly work together. The fabulous teamwork makes, that we quickly have a fantastic result and reduces our costs,  and we pass the savings on to you. Telecommuting is the ideal way to provide global markets with digital products and services. It's also an environmental friendly way to do business that's quickly becoming a trend and standard practice.</p>
-<p>
-Additionally, we provide software offshore outsourcing services, with respect to the fields of web design and development, web maintenance, hosting, domain name registration and graphic design, all in a fraction of the time of our competitors.</p>
-<p>Don't forget the incredible economical price, partly due to our low overhead. You directly deal with our experts working on your website, cutting out the middleman, and consequently, the middleman’s expense. We'll learn your needs and create just what you require, no templates, no over-the-top techno-speak here!</p>
-<p>If you are looking for an effective website that integrates quality website services and offshore outsourcing services, we would be happy to provide you with a satisfied solution. We are not limited by our location - you can be anywhere in the world and we will be able to establish a good working relationship with you.</p><br>]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>71</wp:post_id>
-		<wp:post_date><![CDATA[2018-01-18 17:02:23]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-01-18 09:02:23]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[company-profile]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
-			<wp:meta_value><![CDATA[30]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Technology Strength</title>
-		<link>http://test.milettech.com/?page_id=74</link>
-		<pubDate>Thu, 18 Jan 2018 09:09:28 +0000</pubDate>
-		<dc:creator><![CDATA[milettech]]></dc:creator>
-		<guid isPermaLink="false">http://test.milettech.com/?page_id=74</guid>
-		<description></description>
-		<content:encoded><![CDATA[<p><font color="#111111">As a leading and professional website specializing in website service, we have powerful technology strength, such as professional technicians on .NET, ASP, PHP, XML, DHTML, JAVA, J2EE, PERL, C/C++, and VB.</font></p>
-<p><font color="#111111">Millettech is skilled with Flash &amp; Flex, MAYA , 3DMAX, GIFAnimator, CorelDRAW, Painter, Adobe Photoshop, Adobe Illustrator, Adobe Flash, Adobe Fireworks, Dreamweaver, Chinese painting, Oil painting and carving. Familiar with HTML &amp;CSS, and e-commerce module design with Java , JSP , JavaScript.</font></p>
-<p><font color="#111111">In Database design and application development field, We can design and develop three-tier or n-tier database systems using Microsoft SQL Sever, Oracle and DB2 etc as a Back-End and .NET, Java, Visual Basic, C/C++ and PowerBuilder etc as the Front-End.</font></p>
-<p><font color="#111111">In 3D Animation field, We make use of 3D MAX, MAYA, and Softimage as the strongest tool to boast effective outcomes.</font></p>
-<p><font color="#111111">Besides, we have consolidated strength in 3D panoramic virtual tour, VR, Corporate identity system, Graphic design.</font></p>
-<p><font color="#111111">With the rich experience and concrete technical background in this field, we can accommodate our clients` needs.</font></p><br>]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>74</wp:post_id>
-		<wp:post_date><![CDATA[2018-01-18 17:09:28]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-01-18 09:09:28]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[technology-strength]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
-			<wp:meta_value><![CDATA[30]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>They Trust Us</title>
-		<link>http://test.milettech.com/?page_id=77</link>
-		<pubDate>Thu, 18 Jan 2018 09:11:46 +0000</pubDate>
-		<dc:creator><![CDATA[milettech]]></dc:creator>
-		<guid isPermaLink="false">http://test.milettech.com/?page_id=77</guid>
-		<description></description>
-		<content:encoded><![CDATA[<p><span class="Text-font">We are trained, equipped and customer-friendly </span></p>
-<div><span class="Text-font">• We have a process that takes us from your inquiry to your finished product and beyond: </span></div>
-<div><span class="Text-font">• We conduct a Needs Analysis. We ask  questions and pay attention to the answers. We want to understand your  audience and your competitors.</span></div>
-<div><span class="Text-font">• We identify any backend programming needs. </span></div>
-<div><span class="Text-font">• We generate a quotation, identifying your website requirements. </span></div>
-<div><span class="Text-font">• We begin your project when both requirements and costs have been approved by you. </span></div>
-<div><span class="Text-font">• We offer a choice of designs, including suggested content, for your approval. </span></div>
-<div><span class="Text-font">• When the final design has been approved,  we begin application of our quality assurance program. We finalize  graphic design, integrate content, and performance browser, platform and  content checks. Then we conduct bug checks and broken links checks. </span></div>
-<div><span class="Text-font">• We're flexible: We recognize that project  objectives sometimes change after the initial project development  stage. We're with you all the way. </span></div>
-<div><span class="Text-font">• When your website complies with project  objectives and has passed all quality assurance checks, we get your  final approval and upload to the server. </span></div>
-<div><span class="Text-font">• We launch your website. </span></div>
-<div><span class="Text-font">• Then, we stand behind our product to ensure your satisfaction. </span></div>
-<div><span class="Text-font">• We offer perfect technique, maintenance, management and hosting support as well as search engine registration and promotion. </span></div>
-<p><span class="Text-font">The following is a list of technologies that  we use to develop your website. They are what we have to consider,  and what you never need to worry about, because we know how to control  them. There are many reasons to choose. Here goes: </span></p>
-<p>CSS, DHTML, HTML (clean code), XML/XSL(T), ASP.NET, Javascript, Java Applets, Servlets, JSP, PHP, including PHPLib, Perl, PosgreSQL/MySQL, POSIX, Flash Animation,</p>
-<p><strong>Choose us, choose perfection!</strong></p>
-<p class="Text-font"><strong> </strong></p><br>]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>77</wp:post_id>
-		<wp:post_date><![CDATA[2018-01-18 17:11:46]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-01-18 09:11:46]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[they-trust-us]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
-			<wp:meta_value><![CDATA[60]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title></title>
 		<link>http://test.milettech.com/?p=137</link>
 		<pubDate>Fri, 19 Jan 2018 07:27:21 +0000</pubDate>
@@ -2833,6 +1364,61 @@ Additionally, we provide software offshore outsourcing services, with respect to
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 			<wp:meta_value><![CDATA[135]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title></title>
+		<link>http://test.milettech.com/?p=138</link>
+		<pubDate>Fri, 19 Jan 2018 07:27:20 +0000</pubDate>
+		<dc:creator><![CDATA[milettech]]></dc:creator>
+		<guid isPermaLink="false">http://test.milettech.com/?p=138</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>138</wp:post_id>
+		<wp:post_date><![CDATA[2018-01-19 15:27:20]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-01-19 07:27:20]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[138]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>28</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="millettech"><![CDATA[millettech]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[147]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[133]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
@@ -3053,6 +1639,226 @@ Additionally, we provide software offshore outsourcing services, with respect to
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 			<wp:meta_value><![CDATA[125]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title></title>
+		<link>http://test.milettech.com/?p=144</link>
+		<pubDate>Fri, 19 Jan 2018 07:27:19 +0000</pubDate>
+		<dc:creator><![CDATA[milettech]]></dc:creator>
+		<guid isPermaLink="false">http://test.milettech.com/?p=144</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>144</wp:post_id>
+		<wp:post_date><![CDATA[2018-01-19 15:27:19]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-01-19 07:27:19]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[144]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>22</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="millettech"><![CDATA[millettech]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[147]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[121]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title></title>
+		<link>http://test.milettech.com/?p=145</link>
+		<pubDate>Fri, 19 Jan 2018 07:27:19 +0000</pubDate>
+		<dc:creator><![CDATA[milettech]]></dc:creator>
+		<guid isPermaLink="false">http://test.milettech.com/?p=145</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>145</wp:post_id>
+		<wp:post_date><![CDATA[2018-01-19 15:27:19]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-01-19 07:27:19]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[145]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>21</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="millettech"><![CDATA[millettech]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[147]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[119]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title></title>
+		<link>http://test.milettech.com/?p=146</link>
+		<pubDate>Fri, 19 Jan 2018 07:27:19 +0000</pubDate>
+		<dc:creator><![CDATA[milettech]]></dc:creator>
+		<guid isPermaLink="false">http://test.milettech.com/?p=146</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>146</wp:post_id>
+		<wp:post_date><![CDATA[2018-01-19 15:27:19]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-01-19 07:27:19]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[146]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>20</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="millettech"><![CDATA[millettech]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[147]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[116]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title></title>
+		<link>http://test.milettech.com/?p=147</link>
+		<pubDate>Fri, 19 Jan 2018 07:27:19 +0000</pubDate>
+		<dc:creator><![CDATA[milettech]]></dc:creator>
+		<guid isPermaLink="false">http://test.milettech.com/?p=147</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>147</wp:post_id>
+		<wp:post_date><![CDATA[2018-01-19 15:27:19]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-01-19 07:27:19]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[147]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>19</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="millettech"><![CDATA[millettech]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[87]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[114]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
@@ -3458,6 +2264,292 @@ Additionally, we provide software offshore outsourcing services, with respect to
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title></title>
+		<link>http://test.milettech.com/?p=169</link>
+		<pubDate>Mon, 22 Jan 2018 06:50:17 +0000</pubDate>
+		<dc:creator><![CDATA[milettech]]></dc:creator>
+		<guid isPermaLink="false">http://test.milettech.com/?p=169</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>169</wp:post_id>
+		<wp:post_date><![CDATA[2018-01-22 14:50:17]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-01-22 06:50:17]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[169]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>37</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="millettech"><![CDATA[millettech]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[47]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[category]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>ABOUT US</title>
+		<link>http://test.milettech.com/?page_id=54</link>
+		<pubDate>Thu, 18 Jan 2018 03:53:23 +0000</pubDate>
+		<dc:creator><![CDATA[milettech]]></dc:creator>
+		<guid isPermaLink="false">http://test.milettech.com/?page_id=54</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>54</wp:post_id>
+		<wp:post_date><![CDATA[2018-01-18 11:53:23]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-01-18 03:53:23]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[about-us]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+			<wp:meta_value><![CDATA[30]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Company Culture</title>
+		<link>http://test.milettech.com/?page_id=57</link>
+		<pubDate>Thu, 18 Jan 2018 06:40:24 +0000</pubDate>
+		<dc:creator><![CDATA[milettech]]></dc:creator>
+		<guid isPermaLink="false">http://test.milettech.com/?page_id=57</guid>
+		<description></description>
+		<content:encoded><![CDATA[<h4><span style="color: #ff0000;">Mission:</span></h4>
+The mission of Millettech above all is to satisfy our clients and exceed their expectations with the efficient and quality of our services. We will rapidly expand and improve our services to meet the dynamic needs of the global market.
+<h4><span style="color: #ff0000;">Values:</span></h4>
+Customer First – These words ring so true today as they did hundreds of years ago and they are the foundation of Millettech's company philosophy.
+
+Passion – Technology is something Millettech feels very passionate about. We work hard to reflect this in the quality of our products.
+
+Creativity – Knowledge alone is not enough. Millettech believes in the power of creativity and encourages every employee to excercise such power in projects and our business.
+
+Self-motivation – At Millettech, we are very dedicated to our work. We will work tirelessly to meet timelines, and to exceed clients' expectations on quality and cost.
+
+Perfection – A solid product does not begin and end with programming alone. Millettech believes in thorough design, creation and testing at all levels. These are the elements of a successful project.
+<h4><span style="color: #ff0000;">Vision:</span></h4>
+Millettech will be the leading website service provider in China and abroad.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>57</wp:post_id>
+		<wp:post_date><![CDATA[2018-01-18 14:40:24]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-01-18 06:40:24]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[company-culture]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+			<wp:meta_value><![CDATA[90]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>CMM</title>
+		<link>http://test.milettech.com/?page_id=63</link>
+		<pubDate>Thu, 18 Jan 2018 08:49:03 +0000</pubDate>
+		<dc:creator><![CDATA[milettech]]></dc:creator>
+		<guid isPermaLink="false">http://test.milettech.com/?page_id=63</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p><b>What is CMM?</b></p>
+<p>The <font style="font-weight:bold">Capability Maturity Model for Software</font> (<font style="font-weight:bold">CMM</font>) is a framework that describes the key elements of an effective software process. There are CMMs for non software processes as well, such as <a href="http://bpmtutorial.com/bpm/BPM.aspx" title="Business Process Management Tutorial"><font color="#0000ff">Business Process Management (BPM)</font></a>.</p>
+<p>The CMM describes an evolutionary improvement path from an ad hoc, immature process to a mature, disciplined process. The CMM covers practices for planning, engineering, and managing software development and maintenance.</p>
+<p>When followed, these key practices improve the ability of organizations to meet goals for cost, schedule, functionality, and product quality.</p>
+<p>The CMM establishes a yardstick against which it is possible to judge, in a repeatable way, the maturity of an organization's software process and compare it to the state of the practice of the industry.</p>
+<p>The CMM can also be used by an organization to plan improvements to its software process. It also reflects the needs of individuals performing software process, improvement, software process assessments, or software capability evaluations; is documented; and is publicly available.</p>
+<p>The CMM model defines five levels of organizational maturity:</p>
+<p>1. <font style="font-weight:bold">Initial level</font> is a basis for comparison with the next levels. In an organization at the initial level, conditions are not stable for the development of quality software. The results of any project depend totally on the manager’ s personal approach and the programmers’ experience, meaning the success of a particular project can be repeated only if the same managers and programmers are assigned to the next project. In addition, if managers or programmers leave the company, the quality of produced software will sharply decrease. In many cases, the development process comes down to writing code with minimal testing.</p>
+<p>2. <font style="font-weight:bold">Repeatable level.</font> At this level, project management technologies have been introduced in a company. That project planning and management is based on accumulated experience and there are standards for produced software (these standards are documented) and there is a special quality management group. At critical times, the process tends to roll back to the initial level.</p>
+<p>3. <font style="font-weight:bold">Defined level.</font> Here, standards for the processes of software development and maintenance are introduced and documented (including project management). During the introduction of standards, a transition to more effective technologies occurs. There is a special quality management department for building and maintaining these standards. A program of constant, advanced training of staff is required for achievement of this level. Starting with this level, the degree of organizational dependence on the qualities of particular developers decreases and the process does not tend to roll back to the previous level in critical situations.</p>
+<p>4. <font style="font-weight:bold">Managed level.</font> There are quantitative indices (for both software and process as a whole) established in the organization. Better project management is achieved due to the decrease of digression in different project indices. However, sensible variations in process efficiency may be different from random variations (noise), especially in mastered areas.</p>
+<p>5. <font style="font-weight:bold">Optimizing level.</font> Improvement procedures are carried out not only for existing processes, but also for evaluation of the efficiency of newly introduced innovative technologies. The main goal of an organization on this level is permanent improvement of existing processes. This should anticipate possible errors and defects and decrease the costs of software development, by creating reusable components for example</p><br>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>63</wp:post_id>
+		<wp:post_date><![CDATA[2018-01-18 16:49:03]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-01-18 08:49:03]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[cmm]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+			<wp:meta_value><![CDATA[60]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Company Profile</title>
+		<link>http://test.milettech.com/?page_id=71</link>
+		<pubDate>Thu, 18 Jan 2018 09:02:23 +0000</pubDate>
+		<dc:creator><![CDATA[milettech]]></dc:creator>
+		<guid isPermaLink="false">http://test.milettech.com/?page_id=71</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p>Millettech is a professional website team located in Shanghai, China. We successfully work with clients from all over the world. We are excited about the possibility of running our business in the most efficient and innovative way - by telecommuting. Our web designers specialize in best-in-class customer website services including web design and development, web hosting, web maintenance, domain name registration, search engine registration, search engine optimization, e-commerce, creative design, corporate identity system, VR, 3D Animation, 3D panoramic virtual tour, graphic design, and sculpture service.</p>
+<p>We strongly believe that good web design is only the beginning of an effective website strategy. Effective web promotion completes the package. Millettech provides you with a full range of web promotion services designed to get your website noticed.</p>
+<p>We take full advantage of new technology, all communications are done via phone and email. We have a 30-40 people work stable, which perfectly work together. The fabulous teamwork makes, that we quickly have a fantastic result and reduces our costs,  and we pass the savings on to you. Telecommuting is the ideal way to provide global markets with digital products and services. It's also an environmental friendly way to do business that's quickly becoming a trend and standard practice.</p>
+<p>
+Additionally, we provide software offshore outsourcing services, with respect to the fields of web design and development, web maintenance, hosting, domain name registration and graphic design, all in a fraction of the time of our competitors.</p>
+<p>Don't forget the incredible economical price, partly due to our low overhead. You directly deal with our experts working on your website, cutting out the middleman, and consequently, the middleman’s expense. We'll learn your needs and create just what you require, no templates, no over-the-top techno-speak here!</p>
+<p>If you are looking for an effective website that integrates quality website services and offshore outsourcing services, we would be happy to provide you with a satisfied solution. We are not limited by our location - you can be anywhere in the world and we will be able to establish a good working relationship with you.</p><br>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>71</wp:post_id>
+		<wp:post_date><![CDATA[2018-01-18 17:02:23]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-01-18 09:02:23]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[company-profile]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+			<wp:meta_value><![CDATA[30]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Technology Strength</title>
+		<link>http://test.milettech.com/?page_id=74</link>
+		<pubDate>Thu, 18 Jan 2018 09:09:28 +0000</pubDate>
+		<dc:creator><![CDATA[milettech]]></dc:creator>
+		<guid isPermaLink="false">http://test.milettech.com/?page_id=74</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p><font color="#111111">As a leading and professional website specializing in website service, we have powerful technology strength, such as professional technicians on .NET, ASP, PHP, XML, DHTML, JAVA, J2EE, PERL, C/C++, and VB.</font></p>
+<p><font color="#111111">Millettech is skilled with Flash &amp; Flex, MAYA , 3DMAX, GIFAnimator, CorelDRAW, Painter, Adobe Photoshop, Adobe Illustrator, Adobe Flash, Adobe Fireworks, Dreamweaver, Chinese painting, Oil painting and carving. Familiar with HTML &amp;CSS, and e-commerce module design with Java , JSP , JavaScript.</font></p>
+<p><font color="#111111">In Database design and application development field, We can design and develop three-tier or n-tier database systems using Microsoft SQL Sever, Oracle and DB2 etc as a Back-End and .NET, Java, Visual Basic, C/C++ and PowerBuilder etc as the Front-End.</font></p>
+<p><font color="#111111">In 3D Animation field, We make use of 3D MAX, MAYA, and Softimage as the strongest tool to boast effective outcomes.</font></p>
+<p><font color="#111111">Besides, we have consolidated strength in 3D panoramic virtual tour, VR, Corporate identity system, Graphic design.</font></p>
+<p><font color="#111111">With the rich experience and concrete technical background in this field, we can accommodate our clients` needs.</font></p><br>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>74</wp:post_id>
+		<wp:post_date><![CDATA[2018-01-18 17:09:28]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-01-18 09:09:28]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[technology-strength]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+			<wp:meta_value><![CDATA[30]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>They Trust Us</title>
+		<link>http://test.milettech.com/?page_id=77</link>
+		<pubDate>Thu, 18 Jan 2018 09:11:46 +0000</pubDate>
+		<dc:creator><![CDATA[milettech]]></dc:creator>
+		<guid isPermaLink="false">http://test.milettech.com/?page_id=77</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p><span class="Text-font">We are trained, equipped and customer-friendly </span></p>
+<div><span class="Text-font">• We have a process that takes us from your inquiry to your finished product and beyond: </span></div>
+<div><span class="Text-font">• We conduct a Needs Analysis. We ask  questions and pay attention to the answers. We want to understand your  audience and your competitors.</span></div>
+<div><span class="Text-font">• We identify any backend programming needs. </span></div>
+<div><span class="Text-font">• We generate a quotation, identifying your website requirements. </span></div>
+<div><span class="Text-font">• We begin your project when both requirements and costs have been approved by you. </span></div>
+<div><span class="Text-font">• We offer a choice of designs, including suggested content, for your approval. </span></div>
+<div><span class="Text-font">• When the final design has been approved,  we begin application of our quality assurance program. We finalize  graphic design, integrate content, and performance browser, platform and  content checks. Then we conduct bug checks and broken links checks. </span></div>
+<div><span class="Text-font">• We're flexible: We recognize that project  objectives sometimes change after the initial project development  stage. We're with you all the way. </span></div>
+<div><span class="Text-font">• When your website complies with project  objectives and has passed all quality assurance checks, we get your  final approval and upload to the server. </span></div>
+<div><span class="Text-font">• We launch your website. </span></div>
+<div><span class="Text-font">• Then, we stand behind our product to ensure your satisfaction. </span></div>
+<div><span class="Text-font">• We offer perfect technique, maintenance, management and hosting support as well as search engine registration and promotion. </span></div>
+<p><span class="Text-font">The following is a list of technologies that  we use to develop your website. They are what we have to consider,  and what you never need to worry about, because we know how to control  them. There are many reasons to choose. Here goes: </span></p>
+<p>CSS, DHTML, HTML (clean code), XML/XSL(T), ASP.NET, Javascript, Java Applets, Servlets, JSP, PHP, including PHPLib, Perl, PosgreSQL/MySQL, POSIX, Flash Animation,</p>
+<p><strong>Choose us, choose perfection!</strong></p>
+<p class="Text-font"><strong> </strong></p><br>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>77</wp:post_id>
+		<wp:post_date><![CDATA[2018-01-18 17:11:46]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-01-18 09:11:46]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[they-trust-us]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+			<wp:meta_value><![CDATA[60]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -4127,6 +3219,123 @@ Millettech has its own Flash CMS developed in 2007. The features of the system a
 		</wp:postmeta>
 	</item>
 	<item>
+		<title>Contact form 1</title>
+		<link>http://test.milettech.com/?post_type=wpcf7_contact_form&#038;p=5</link>
+		<pubDate>Tue, 19 Dec 2017 09:16:46 +0000</pubDate>
+		<dc:creator><![CDATA[milettech]]></dc:creator>
+		<guid isPermaLink="false">http://test.milettech.com/?post_type=wpcf7_contact_form&#038;p=5</guid>
+		<description></description>
+		<content:encoded><![CDATA[<label> Your Name (required)
+    [text* your-name] </label>
+
+<label> Your Email (required)
+    [email* your-email] </label>
+
+<label> Subject
+    [text your-subject] </label>
+
+<label> Your Message
+    [textarea your-message] </label>
+
+[submit "Send"]
+milettech "[your-subject]"
+[your-name] <wordpress@test.milettech.com>
+From: [your-name] <[your-email]>
+Subject: [your-subject]
+
+Message Body:
+[your-message]
+
+-- 
+This e-mail was sent from a contact form on milettech (http://test.milettech.com)
+betterzfz@163.com
+Reply-To: [your-email]
+
+0
+0
+
+milettech "[your-subject]"
+milettech <wordpress@test.milettech.com>
+Message Body:
+[your-message]
+
+-- 
+This e-mail was sent from a contact form on milettech (http://test.milettech.com)
+[your-email]
+Reply-To: betterzfz@163.com
+
+0
+0
+Thank you for your message. It has been sent.
+There was an error trying to send your message. Please try again later.
+One or more fields have an error. Please check and try again.
+There was an error trying to send your message. Please try again later.
+You must accept the terms and conditions before sending your message.
+The field is required.
+The field is too long.
+The field is too short.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>5</wp:post_id>
+		<wp:post_date><![CDATA[2017-12-19 17:16:46]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-12-19 09:16:46]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[contact-form-1]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wpcf7_contact_form]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_form]]></wp:meta_key>
+			<wp:meta_value><![CDATA[<label> Your Name (required)
+    [text* your-name] </label>
+
+<label> Your Email (required)
+    [email* your-email] </label>
+
+<label> Subject
+    [text your-subject] </label>
+
+<label> Your Message
+    [textarea your-message] </label>
+
+[submit "Send"]]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:8:{s:7:"subject";s:26:"milettech "[your-subject]"";s:6:"sender";s:42:"[your-name] <wordpress@test.milettech.com>";s:4:"body";s:173:"From: [your-name] <[your-email]>
+Subject: [your-subject]
+
+Message Body:
+[your-message]
+
+-- 
+This e-mail was sent from a contact form on milettech (http://test.milettech.com)";s:9:"recipient";s:17:"betterzfz@163.com";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:26:"milettech "[your-subject]"";s:6:"sender";s:40:"milettech <wordpress@test.milettech.com>";s:4:"body";s:115:"Message Body:
+[your-message]
+
+-- 
+This e-mail was sent from a contact form on milettech (http://test.milettech.com)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:27:"Reply-To: betterzfz@163.com";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:8:{s:12:"mail_sent_ok";s:45:"Thank you for your message. It has been sent.";s:12:"mail_sent_ng";s:71:"There was an error trying to send your message. Please try again later.";s:16:"validation_error";s:61:"One or more fields have an error. Please check and try again.";s:4:"spam";s:71:"There was an error trying to send your message. Please try again later.";s:12:"accept_terms";s:69:"You must accept the terms and conditions before sending your message.";s:16:"invalid_required";s:22:"The field is required.";s:16:"invalid_too_long";s:22:"The field is too long.";s:17:"invalid_too_short";s:23:"The field is too short.";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_additional_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_locale]]></wp:meta_key>
+			<wp:meta_value><![CDATA[zh_CN]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
 		<title>Domain Name Registration</title>
 		<link>http://test.milettech.com/?page_id=123</link>
 		<pubDate>Fri, 19 Jan 2018 07:20:51 +0000</pubDate>
@@ -4353,123 +3562,6 @@ Our Enterprise Content Management solution framework is intended to help you def
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
 			<wp:meta_value><![CDATA[60]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Contact form 1</title>
-		<link>http://test.milettech.com/?post_type=wpcf7_contact_form&#038;p=5</link>
-		<pubDate>Tue, 19 Dec 2017 09:16:46 +0000</pubDate>
-		<dc:creator><![CDATA[milettech]]></dc:creator>
-		<guid isPermaLink="false">http://test.milettech.com/?post_type=wpcf7_contact_form&#038;p=5</guid>
-		<description></description>
-		<content:encoded><![CDATA[<label> Your Name (required)
-    [text* your-name] </label>
-
-<label> Your Email (required)
-    [email* your-email] </label>
-
-<label> Subject
-    [text your-subject] </label>
-
-<label> Your Message
-    [textarea your-message] </label>
-
-[submit "Send"]
-milettech "[your-subject]"
-[your-name] <wordpress@test.milettech.com>
-From: [your-name] <[your-email]>
-Subject: [your-subject]
-
-Message Body:
-[your-message]
-
--- 
-This e-mail was sent from a contact form on milettech (http://test.milettech.com)
-betterzfz@163.com
-Reply-To: [your-email]
-
-0
-0
-
-milettech "[your-subject]"
-milettech <wordpress@test.milettech.com>
-Message Body:
-[your-message]
-
--- 
-This e-mail was sent from a contact form on milettech (http://test.milettech.com)
-[your-email]
-Reply-To: betterzfz@163.com
-
-0
-0
-Thank you for your message. It has been sent.
-There was an error trying to send your message. Please try again later.
-One or more fields have an error. Please check and try again.
-There was an error trying to send your message. Please try again later.
-You must accept the terms and conditions before sending your message.
-The field is required.
-The field is too long.
-The field is too short.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5</wp:post_id>
-		<wp:post_date><![CDATA[2017-12-19 17:16:46]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2017-12-19 09:16:46]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[contact-form-1]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wpcf7_contact_form]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_form]]></wp:meta_key>
-			<wp:meta_value><![CDATA[<label> Your Name (required)
-    [text* your-name] </label>
-
-<label> Your Email (required)
-    [email* your-email] </label>
-
-<label> Subject
-    [text your-subject] </label>
-
-<label> Your Message
-    [textarea your-message] </label>
-
-[submit "Send"]]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:8:{s:7:"subject";s:26:"milettech "[your-subject]"";s:6:"sender";s:42:"[your-name] <wordpress@test.milettech.com>";s:4:"body";s:173:"From: [your-name] <[your-email]>
-Subject: [your-subject]
-
-Message Body:
-[your-message]
-
--- 
-This e-mail was sent from a contact form on milettech (http://test.milettech.com)";s:9:"recipient";s:17:"betterzfz@163.com";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:26:"milettech "[your-subject]"";s:6:"sender";s:40:"milettech <wordpress@test.milettech.com>";s:4:"body";s:115:"Message Body:
-[your-message]
-
--- 
-This e-mail was sent from a contact form on milettech (http://test.milettech.com)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:27:"Reply-To: betterzfz@163.com";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:8:{s:12:"mail_sent_ok";s:45:"Thank you for your message. It has been sent.";s:12:"mail_sent_ng";s:71:"There was an error trying to send your message. Please try again later.";s:16:"validation_error";s:61:"One or more fields have an error. Please check and try again.";s:4:"spam";s:71:"There was an error trying to send your message. Please try again later.";s:12:"accept_terms";s:69:"You must accept the terms and conditions before sending your message.";s:16:"invalid_required";s:22:"The field is required.";s:16:"invalid_too_long";s:22:"The field is too long.";s:17:"invalid_too_short";s:23:"The field is too short.";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_additional_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_locale]]></wp:meta_key>
-			<wp:meta_value><![CDATA[zh_CN]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -4789,6 +3881,49 @@ The ability to apply special image effects to your panoramas and other photos, g
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
 			<wp:meta_value><![CDATA[60]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>wechat mall</title>
+		<link>http://test.milettech.com/?p=170</link>
+		<pubDate>Mon, 22 Jan 2018 07:58:33 +0000</pubDate>
+		<dc:creator><![CDATA[milettech]]></dc:creator>
+		<guid isPermaLink="false">http://test.milettech.com/?p=170</guid>
+		<description></description>
+		<content:encoded><![CDATA[I spent 2 days in a vortex of frustration and confusion trying to get the functions and methods I needed working properly on a category page – even using mods and merges of the index and single page in the mess, when all I had to do was spend a few extra minutes to word my search term properly and voila – here I am. Your ‘little’ tutorial almost effortlessly moved mountains for me.
+
+Although it isn’t finalized, it is functionally there working cleanly.
+
+I am very grateful, thank you.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>170</wp:post_id>
+		<wp:post_date><![CDATA[2018-01-22 15:58:33]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-01-22 07:58:33]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[wechat-mall]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="products"><![CDATA[Products]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+			<wp:meta_value><![CDATA[60]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_yoast_wpseo_primary_category]]></wp:meta_key>
+			<wp:meta_value><![CDATA[47]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[81]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 </channel>

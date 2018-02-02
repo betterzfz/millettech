@@ -60,7 +60,7 @@ jQuery(document).ready(function(){
         <!-- HEADER -->
         <div id="outerheader">
             <header id="top">
-            	<div id="logo"><a href="/"><img src="<?php echo get_template_directory_uri(); ?>/images/logo.png" alt=""></a></div>
+            	<div id="logo" style="margin-top: 3px;"><a href="/"><img src="<?php echo get_template_directory_uri(); ?>/images/logo.jpg" alt=""></a></div>
                 <section id="navigation">
                     <nav>
                         <?php
