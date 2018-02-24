@@ -46,9 +46,9 @@
 				<ul>
 					<li class="widget-container">
                         <h2 class="widget-title">Get In Touch</h2>
-                        <p>Calvarey 121 Street # 45<br/>
-                        Telp: +800 123 456<br/>
-                        <a href="http://www.cssmoban.com/" class="colortext">www.cssmoban.com</a><br/>
+                        <p>Shanghai<br/>
+                        Telp: +86-021-68880576<br/>
+                        <a href="http://millettech.com" class="colortext">http://millettech.com</a><br/>
                         </p>
                         <div id="sn">
                         	<ul>
