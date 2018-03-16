@@ -11,7 +11,20 @@
  */
 
 get_header(); ?>
-        
+
+<style type="text/css">
+    #ts-display-pf-col-2 li {
+        border: 0;
+        margin: 0;
+    }
+    #ts-display-pf-col-2 .ts-display-pf-img a .rollover {
+        width: 449px;
+        height: 114px;
+    }
+    #ts-display-pf-col-2 li::before {
+        border: 0;
+    }
+</style>
         <!-- BEFORE CONTENT -->
         <div id="outerbeforecontent" class="inner">
         	<div id="beforecontent">
@@ -30,21 +43,19 @@ get_header(); ?>
             // Check if there are any posts to display
             if ( have_posts() ) : ?>
                 <div id="ts-display-portfolio">
-                <ul id="ts-display-pf-col-4">
+                <ul id="ts-display-pf-col-2" style="width: 600px;">
                 <?php
                 // The Loop
                 while ( have_posts() ) : the_post(); ?>
-                    <li <?php if (1 == $wp_query->current_post % 2) echo 'class="nomargin"'; ?>>
+                    <li style="width: auto;">
+                        <div class="ts-display-pf-text">
+                            <h2 class="posttitle" style="float: left;border: 0;"><?php the_title(); ?></h2>
+                        </div>
                         <div class="ts-display-pf-img">
                             <?php $image = wp_get_attachment_image_src( get_post_thumbnail_id( $post->ID ), 'single-post-thumbnail' ); ?>
-                            <a class="image" width="220" height="131" href="<?php echo $image[0]; ?>" data-rel="prettyPhoto[mixed]">
-                                <span class="rollover"></span>
-                                <img width="220" height="131" src="<?php echo $image[0]; ?>">
-                            </a>
-                        </div>
-                        <div class="ts-display-pf-text">
-                            <h2 class="posttitle"><a href="<?php the_permalink() ?>"><?php the_title(); ?></a></h2>
-                            <p><?php the_excerpt(); ?></p>
+                            <a class="image" width="449" height="114" href="<?php echo $image[0]; ?>" data-rel="prettyPhoto[mixed]" >
+                            <span class="rollover"></span>
+                            <img width="449" height="114" src="<?php echo $image[0]; ?>" alt="" /></a>
                         </div>
                         <div class="ts-display-clear"></div>
                     </li>
@@ -64,10 +75,11 @@ get_header(); ?>
                 </div>
                 
                 <div class="clear"></div>
+
             <?php else: ?>
                 <p>Sorry, no posts matched your criteria.</p>
             <?php endif; ?>
             </section>
         </div>
         <!-- END MAIN CONTENT -->
-<?php get_footer(); ?>       
+<?php get_footer(); ?>
