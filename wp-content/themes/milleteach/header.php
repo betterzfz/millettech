@@ -56,13 +56,13 @@ jQuery(document).ready(function(){
 <body>
 <div id="bodychild">
 	<div id="outercontainer">
-			<p style="float:right;margin: 10px;">
-				<a href="http://www.millettech.com/chinese/" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/images/china.gif">&nbsp;&nbsp;</a>
-				<a href="http://www.millettech.info"><img src="<?php echo get_template_directory_uri(); ?>/images/Ean.gif"></a>&nbsp;&nbsp;
-				<a href="http://www.millettech.com/Germany"><img src="<?php echo get_template_directory_uri(); ?>/images/Ger.gif"></a>&nbsp;&nbsp;
-				<a href="http://www.millettech.com/japan"><img src="<?php echo get_template_directory_uri(); ?>/images/Jap.gif"></a>&nbsp; &nbsp;
-				<a href="http://www.millettech.com/spanish"><img src="<?php echo get_template_directory_uri(); ?>/images/Spain.gif"></a>
-			</p>
+		<p style="float:right;margin: 10px;">
+			<a href="http://www.millettech.com/chinese/" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/images/china.gif">&nbsp;&nbsp;</a>
+			<a href="http://www.millettech.info"><img src="<?php echo get_template_directory_uri(); ?>/images/Ean.gif"></a>&nbsp;&nbsp;
+			<a href="http://www.millettech.com/Germany"><img src="<?php echo get_template_directory_uri(); ?>/images/Ger.gif"></a>&nbsp;&nbsp;
+			<a href="http://www.millettech.com/japan"><img src="<?php echo get_template_directory_uri(); ?>/images/Jap.gif"></a>&nbsp; &nbsp;
+			<a href="http://www.millettech.com/spanish"><img src="<?php echo get_template_directory_uri(); ?>/images/Spain.gif"></a>
+		</p>
 		<div style="clear:both;"></div>
         <!-- HEADER -->
         <div id="outerheader">
