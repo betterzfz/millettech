@@ -314,10 +314,9 @@ header, #afterheader, #slidercontainer, #maincontent{width:940px; margin:0 auto}
 header{}
 #logo{width:200px; float:left;}
 #logo img{display:block;}
-#navigation{float:right;}
 
 
-nav{position:relative;	z-index:9000; float:right; margin:0 0 0 0;}
+nav{position:relative;	z-index:9000; margin:0 0 0 0;}
 
 #topnav{
 	margin:0;
