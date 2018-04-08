@@ -56,18 +56,20 @@ jQuery(document).ready(function(){
 <body>
 <div id="bodychild">
 	<div id="outercontainer">
-			<div style="padding: 10px; background-color: #000;">
-				<div id="logo">
-					<a href="/"><img src="<?php echo get_template_directory_uri(); ?>/images/logo.jpg" alt=""></a>
+			<div style="background-color: #000;">
+				<div style="width: 45%;margin: 0 auto;">
+					<div id="logo">
+						<a href="/"><img src="<?php echo get_template_directory_uri(); ?>/images/logo.jpg" alt=""></a>
+					</div>
+					<p style="float:right; padding: 10px;margin: 0;">
+						<a href="http://www.millettech.com/chinese/" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/images/china.gif">&nbsp;&nbsp;</a>
+						<a href="http://www.millettech.info"><img src="<?php echo get_template_directory_uri(); ?>/images/Ean.gif"></a>&nbsp;&nbsp;
+						<a href="http://www.millettech.com/Germany"><img src="<?php echo get_template_directory_uri(); ?>/images/Ger.gif"></a>&nbsp;&nbsp;
+						<a href="http://www.millettech.com/japan"><img src="<?php echo get_template_directory_uri(); ?>/images/Jap.gif"></a>&nbsp; &nbsp;
+						<a href="http://www.millettech.com/spanish"><img src="<?php echo get_template_directory_uri(); ?>/images/Spain.gif"></a>
+					</p>
+					<div style="clear:both;"></div>
 				</div>
-				<p style="float:right; padding: 10px;margin: 0;">
-					<a href="http://www.millettech.com/chinese/" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/images/china.gif">&nbsp;&nbsp;</a>
-					<a href="http://www.millettech.info"><img src="<?php echo get_template_directory_uri(); ?>/images/Ean.gif"></a>&nbsp;&nbsp;
-					<a href="http://www.millettech.com/Germany"><img src="<?php echo get_template_directory_uri(); ?>/images/Ger.gif"></a>&nbsp;&nbsp;
-					<a href="http://www.millettech.com/japan"><img src="<?php echo get_template_directory_uri(); ?>/images/Jap.gif"></a>&nbsp; &nbsp;
-					<a href="http://www.millettech.com/spanish"><img src="<?php echo get_template_directory_uri(); ?>/images/Spain.gif"></a>
-				</p>
-				<div style="clear:both;"></div>
 			</div>
         <!-- HEADER -->
         <div id="outerheader">

@@ -19,7 +19,7 @@ get_header(); ?>
 
 <style type="text/css">
     #main{ height:600px; background:url(<?php echo get_template_directory_uri(); ?>/images/millettech230_03.gif) repeat-x;}
-    #big{ width:1083px; height:475px; margin:0 auto; }
+    #big{ width:1080px; height:475px; margin:0 auto; }
     #left{ width:670px; height:275px; margin-left:30px; margin-top:20px; border:1px solid #CCCCCC; float:left; display:inline;}
     #right{ width:329px; height:275px; margin-left:20px; margin-top:20px; border:1px solid #CCCCCC; float:left; display:inline; font-family:"Calibri"; font-size:12px; line-height:18px;}
     #ptop ul{ list-style-type:none;margin: 0;}
@@ -172,7 +172,7 @@ get_header(); ?>
     }
 </style>
         <!-- SLIDER -->
-        <div id="outerslider">
+        <div id="outerslider" style="width: 1080px; margin: 0 auto;">
         	<div id="slidercontainer">
             	<div id="bgslider"></div>
             	<section id="slider">
@@ -213,27 +213,6 @@ get_header(); ?>
             </div>
         </div>
         <!-- END SLIDER -->
-        <div class="copyrights">Collect from <a href="" >Website Template</a></div>
-        <!-- BEFORE CONTENT -->
-        <div id="outerbeforecontent">
-        	<div id="beforecontent">
-            	<section id="beforethecontent">
-                	<article id="beforethecontent-colleft">
-                    	<h2>About us</h2>
-                        <p>Morbi bibendum ullamcorper velit nec auctor. <span class="colortext">Pellentesque ullamcorper</span> odio vel nunc tincidunt ac posuere sem tempor. Ut lacinia turpis at urna malesuada in dignissim metus venenatis.</p>
-                        <p><span class="colortext">Morbi hendrerit porttitor augue</span>, in iaculis nunc vulputate sed. Donec egestas porttitor dolor, sit amet luctus diam molestie et. </p>
-                    </article>
-                	<article id="beforethecontent-colright">
-                    	<div class="quote">
-                        <p>magination is the beginning of creation. You imagine what you desire, you will what you imagine and at last you create what you will.</p>
-                        <span class="qname colortext">~ George Bernard Shaw</span>
-                        </div>
-                    </article>
-                    <div class="clear"></div>
-                </section>
-            </div>
-        </div>
-        <!-- END BEFORE CONTENT -->
         
         <!-- MAIN CONTENT -->
         <div id="main">
@@ -268,10 +247,10 @@ get_header(); ?>
                 <div id="pp" style="display: block;"> 
                             <div style="float:left; display:inline;" class="setimg"><a title="Millettech has conducted a revision of the whole website and reintegrated its products" href="/english/news/165.htm"><img src="<?php echo get_template_directory_uri(); ?>/images/uuuuuu(1).jpg"></a></div>
                     <div class="softtext" style="margin-left: 10px; width:460px;">
-                    <p><span><strong><a title="Millettech has conducted a revision of the whole website and reintegrated its products" href="/english/news/165.htm">Millettech has conducted a revision of the whole website and reintegrated its products</a></strong></span><br>
+                    <p><span><strong><a title="Millettech has conducted a revision of the whole website and reintegrated its products" href="/?page_id=359">Millettech has conducted a revision of the whole website and reintegrated its products</a></strong></span><br>
                     </p><p class="text" style="position:relative;"><a title="Millettech has conducted a revision of the whole website and reintegrated its products" href="/english/news/165.htm">
                     Recently, Millettech has conducted a revision of the whole website and reintegrated its products. Millettech has devoted a lot to redesigning the web to keep pace with the modern trend and show the new image of enterprise transformation in the new era.</a> 
-                    <a href="/english/news/165.htm" class="cl1" style="position:absolute; right:0; bottom:-15px;">Read More&gt;&gt;</a></p>
+                    <a href="/?page_id=359" class="cl1" style="position:absolute; right:0; bottom:-15px;">Read More&gt;&gt;</a></p>
                     
                     </div>
                     <div style="clear:both"></div>
@@ -282,11 +261,11 @@ get_header(); ?>
                     
                             <div style="float:left; display:inline;" class="setimg"><a title="A successful case of an Car washing business service website" href="/english/news/164.htm"><img src="<?php echo get_template_directory_uri(); ?>/images/che.png"></a></div>
                     <div class="softtext">
-                    <p><span><strong><a title="A successful case of an Car washing business service website" href="/english/news/164.htm">A successful case of an Car washing business service website</a></strong></span><br>
+                    <p><span><strong><a title="A successful case of an Car washing business service website" href="/?page_id=353">A successful case of an Car washing business service website</a></strong></span><br>
                     </p><p class="text" style="position:relative;"><a title="A successful case of an Car washing business service website" href="/english/news/164.htm">
                     Recently, Millettech has helped a Taiwan company to develop an Car washing business service website and planned a complete set of integrated solutions.Milletech’s elaborate design and professional attitude have win favorable comments from the Taiwan company.
             </a> 
-                    <a href="/english/news/164.htm" class="cl1" style="position:absolute; right:0; bottom:0;">Read More&gt;&gt;</a></p>
+                    <a href="/?page_id=353" class="cl1" style="position:absolute; right:0; bottom:0;">Read More&gt;&gt;</a></p>
                     
                     </div>
                     <div style="clear:both"></div>
